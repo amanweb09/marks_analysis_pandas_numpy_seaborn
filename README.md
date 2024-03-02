@@ -7,4 +7,4 @@ This project analyses various aspects of a dataset about marks of different stud
 1. Pandas
 2. Numpy
 3. Matplotlib
-4. Seabord
+4. Seaborn
